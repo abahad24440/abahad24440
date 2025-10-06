@@ -9,7 +9,7 @@ I love exploring new technologies and turning creative ideas into reality throug
 - 💻 Currently working on front-end and full-stack projects  
 - 🎯 Learning advanced **JavaScript**, **React**, and **Node.js**  
 - 🌱 Always improving my skills in UI/UX and modern web design  
-- 📫 Reach me at: **your-email@example.com**  
+- 📫 Reach me at: **ahad24440@gmail.com**  
 - ⚡ Fun fact: I debug more than I sleep 😄  
 
 ---
